@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\HW_8\Calcilator_App\bin\Debug\Calcilator_App.exe.config
+C:\Users\user\source\repos\HW_8\Calcilator_App\bin\Debug\Calcilator_App.exe
+C:\Users\user\source\repos\HW_8\Calcilator_App\bin\Debug\Calcilator_App.pdb
+C:\Users\user\source\repos\HW_8\Calcilator_App\obj\Debug\Calcilator_App.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HW_8\Calcilator_App\obj\Debug\Calcilator_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\HW_8\Calcilator_App\obj\Debug\Calcilator_App.Form1.resources
+C:\Users\user\source\repos\HW_8\Calcilator_App\obj\Debug\Calcilator_App.Properties.Resources.resources
+C:\Users\user\source\repos\HW_8\Calcilator_App\obj\Debug\Calcilator_App.csproj.GenerateResource.cache
+C:\Users\user\source\repos\HW_8\Calcilator_App\obj\Debug\Calcilator_App.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HW_8\Calcilator_App\obj\Debug\Calcilator_App.exe
+C:\Users\user\source\repos\HW_8\Calcilator_App\obj\Debug\Calcilator_App.pdb

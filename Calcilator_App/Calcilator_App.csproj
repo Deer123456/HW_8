@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7FA173AC-142B-4382-BEE9-48B5690224C8}</ProjectGuid>
+    <ProjectGuid>{1585D60D-4F00-4706-8758-03F1377CAD6A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>HW_8</RootNamespace>
-    <AssemblyName>HW_8</AssemblyName>
+    <RootNamespace>Calcilator_App</RootNamespace>
+    <AssemblyName>Calcilator_App</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
